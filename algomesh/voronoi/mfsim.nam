@@ -1,0 +1,18 @@
+BEGIN OPTIONS
+END OPTIONS
+BEGIN TIMING
+  TDIS6 'm5_mf6.tdis'
+END TIMING
+
+BEGIN MODELS
+# mtype mfname       mname
+  GWF6  'm5_mf6.nam' m5_mf6
+END MODELS
+
+BEGIN EXCHANGES
+END EXCHANGES
+
+BEGIN SOLUTIONGROUP 1
+# slntype slnfname     slnmname
+  IMS6    'm5_mf6.ims' m5_mf6
+END SOLUTIONGROUP

@@ -1,0 +1,18 @@
+BEGIN OPTIONS
+END OPTIONS
+BEGIN TIMING
+  TDIS6 'test.tdis'
+END TIMING
+
+BEGIN MODELS
+# mtype mfname     mname
+  GWF6  'test.nam' test
+END MODELS
+
+BEGIN EXCHANGES
+END EXCHANGES
+
+BEGIN SOLUTIONGROUP 1
+# slntype slnfname   slnmname
+  IMS6    'test.ims' test
+END SOLUTIONGROUP

@@ -1,0 +1,20 @@
+INFORMATION: Wrote TDIS file 'test.tdis'.
+INFORMATION: Wrote DISU file 'test.disu'.
+WARNING: Insufficient mapped data present for IC package (missing initial heads). IC file will not be written.
+INFORMATION: Wrote OC file 'test.oc'.
+WARNING: Insufficient mapped data present for NPF package (missing hydraulic conductivities). NPF file will not be written.
+INFORMATION: No transient stress periods. STO file will not be written.
+INFORMATION: No mapped data for CHD package. CHD file will not be written.
+INFORMATION: No mapped data for WEL package. WEL file will not be written.
+INFORMATION: No mapped data for DRN package. DRN file will not be written.
+INFORMATION: No mapped data for RIV package. RIV file will not be written.
+INFORMATION: No mapped data for GHB package. GHB file will not be written.
+INFORMATION: No mapped data for RCH package. RCH file will not be written.
+INFORMATION: No mapped data for EVT package. EVT file will not be written.
+INFORMATION: Wrote IMS file 'test.ims'.
+INFORMATION: Wrote global to layer index CSV file 'test-global-to-layer-index.csv'.
+INFORMATION: Wrote layer to global index CSV file 'test-layer-to-global-index.csv'.
+INFORMATION: Wrote VTK file 'test.vtk'.
+INFORMATION: Wrote connections VTK file 'test_connections.vtk'.
+INFORMATION: Wrote NAM file 'test.nam'.
+INFORMATION: Wrote SIMULATION file 'mfsim.nam'.

@@ -1,0 +1,12 @@
+# MODFLOW-6 Output Control (OC6) option exported by HydroAlgorithmics' AlgoMesh 2.0.15.
+
+BEGIN OPTIONS
+  HEAD FILEOUT 'm5_mf6.hds'
+  BUDGET FILEOUT 'm5_mf6.cbc'
+END OPTIONS
+
+BEGIN PERIOD 1
+  SAVE HEAD ALL
+  SAVE BUDGET ALL
+  PRINT BUDGET ALL
+END PERIOD
